@@ -1,1 +1,1 @@
-print("Hello buddy How are you")
+print"Hello buddy How are you")
